@@ -1,6 +1,7 @@
-*Welcome to my GitHub*
-=
-My name is Alexandr ~~Reutov~~, I am a student who programming on *c++*, *python*, a little *java*, and now, I am learning *NASM*.
+# Welcome to my Github!
+My name is Alexander ~~Reutov~~.
+I know *C++*, *Python*, and a bit of *Java*.
+And currently, I'm teaching *NASM* Assembly.
 
 [![](/picture.png)](https://www.pixiv.net/en/artworks/57442373)
-
+###### rem is da best
