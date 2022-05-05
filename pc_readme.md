@@ -35,3 +35,4 @@
 #### Laptop: **Apple Macbook Pro 15 2019 (i7-2.6ghz)**
 #### Router: **Mikrotik hap ac2 x2 (two net-providers btw)**
 #### Printer: **Brother DCP-T225**
+#### VR: Meta Oculus Quest 2 512gb
