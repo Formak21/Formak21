@@ -3,6 +3,7 @@
 ##### also known as Formak21, Form49.d, Form49d, Formak, areutov7 and etc.
 
 ### I am a Russian **Python** and **C++** programmer.
+#### **About my pc setup: [*click here*](pc_readme.md)**
 
 ## u can find me here:
 #### [Vkontakte](vk.com/formak21)
