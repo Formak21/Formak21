@@ -12,7 +12,7 @@
 #### Case: NZXT H510
 #### OS: Debian 11 with KDE Plasma Desktop
 #### OS2: Windows 10 Enterprise LTSC IOT 2021
-#### OS3: Windows 10 Pro v20H2 (Tweaked *[ReviOS](https://revi.cc)*)
+#### OS3: Windows 10 Pro v20H2 (Tweaked *[ReviOS](https://www.revi.cc)*)
 #### ![OC Setup](/img/oc_1.jpeg)
 
 ## Peripheria:
