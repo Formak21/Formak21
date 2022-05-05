@@ -14,5 +14,5 @@
 ## cute pic :3 ↓
 [![](/img/rem_image_1.png)](https://www.pixiv.net/en/artworks/57442373)
 ###### **she's cute, isn't she?**
-## ↓ u can check out my pinned projects ↓
 # 📌-----------------------------------------📌
+## ↓ u can check out my pinned projects ↓
