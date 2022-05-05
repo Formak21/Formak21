@@ -2,7 +2,7 @@
 ## My name is Alexandr, 18-y.o.
 ##### also known as Formak21, Form49.d, Form49d, Formak, areutov7 and etc.
 
-### I am a Russian **Python** and **C++** programmer.
+### I am a **Python** and **C++** programmer from Russia.
 
 ## u can find me here:
 #### [Vkontakte](https://vk.com/formak21)
