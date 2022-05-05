@@ -5,10 +5,10 @@
 ### I am a Russian **Python** and **C++** programmer.
 
 ## u can find me here:
-#### [Vkontakte](vk.com/formak21)
-#### [Telegram](t.me/formak21)
-#### [Discord](discordapp.com/users/458674488683528195)
-#### [Instagram](www.instagram.com/areutov7) 
+#### [Vkontakte](https://vk.com/formak21)
+#### [Telegram](https://t.me/formak21)
+#### [Discord](https://discordapp.com/users/458674488683528195)
+#### [Instagram](https://www.instagram.com/areutov7) 
 ###### ↑I have no any idea why I have it↑
 #### Also u can write me on mail: Form49.d@gmail.com
 ## cute pic :3 ↓
