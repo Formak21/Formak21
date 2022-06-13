@@ -7,7 +7,7 @@
 - Beginner sysadmin
 - Overclocker
 - Pianist and clarinetist
-    ###### ...and blah blah blah blah blah blah blah blah
+    ###### ...and blah blah blah blah.
 
 
 #### My pc setup: **[click here](pc_readme.md)**
