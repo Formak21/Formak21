@@ -27,8 +27,7 @@
 #### Mon2: **MSI Optix G273QF**
 
 ## Phones:
-#### Main: **Orange Google Pixel 4 64gb with LineageOS 18**
-#### Second: **White Google Pixel 3 64gb with LineageOS 17**
+#### Main: **Black Apple iPhone 12 mini 64gb**
 
 ## Other:
 #### **Apple IPad Pro 2018 10.5 256gb with Apple Pencil**
