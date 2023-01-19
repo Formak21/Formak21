@@ -2,7 +2,7 @@
 #### Processor: **i7 10700k**
 #### RAM: **G.Skill Trident Z RGB 3000C14 16x2**
 #### Motherboard: **MSI Z490 Unify**
-#### Videocard: **MSI Nvidia GeForce GTX 1660 Ventus XS**
+#### Videocard: **MSI Nvidia GeForce RTX 3070Ti Ventus OC**
 #### SSD1: **Samsung 970 pro 512gb**
 #### SSD2: **Gigabyte gp-gsm2ne3100tntd 1024gb** 
 #### SSD3: **Samsung 860 pro 512gb**
