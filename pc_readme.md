@@ -27,7 +27,7 @@
 #### Mon2: **MSI Optix G273QF**
 
 ## Phones:
-#### Main: **Black Apple iPhone 12 mini 64gb**
+#### Main: **White Google Pixel 7 128gb (US), with GrapheneOS ROM**
 
 ## Other:
 #### **Apple IPad Pro 2018 10.5 256gb with Apple Pencil**
