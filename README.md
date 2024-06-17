@@ -1,6 +1,8 @@
 ## My name is Alexandr
 > Also known as: Formak21, Form49.d, Form49d, Formak, areutov7 and etc.
 
+# 🚧 PAGE UNDER RECONSTRUCTION 🚧
+
 ### I'm a 20-y.o. BMSTU student from Russia and:
 - Python dev
 - C dev
