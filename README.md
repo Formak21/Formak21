@@ -11,8 +11,8 @@
 - Python
 - C
 - C++
-- Windows
 - GNU/Linux
+- Windows Administration
 - Network Administration
 - Overclocking
 - SCADA (Codesys, Modbus and etc)
