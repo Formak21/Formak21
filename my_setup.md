@@ -23,7 +23,7 @@
 - Testing and Overclocking OS: **Windows 10 Pro v20H2 (Tweaked *[ReviOS](https://www.revi.cc)*)**
 
 OC Setup:
-![OC Setup](./img/oc_1.jpeg)
+[![OC Setup](./img/oc_1.jpeg)](./img/oc_1.jpeg)
 
 ### Peripheria:
 - Mouse: **Logitech G502 Hero SE**
@@ -65,7 +65,7 @@ OC Setup:
 - Mouse: **Mad Catz R.A.T. 8+ ADV**
 
 **Fetch**:
-![fastfetch](./img/laptop_fastfetch.png)
+[![fastfetch](./img/laptop_fastfetch.png)](./img/laptop_fastfetch.png)
 (dGPU turned off)
 
 ## Phones:

@@ -1,15 +1,13 @@
 ## My name is Alexandr
 > Also known as: Formak21, Formak, Form49d, Form49.d and etc.
 
-# 🚧 PAGE UNDER CONSTRUCTION 🚧
-
-## Some info about me:
+### Some info about me:
 - I'm 20 y.o.
 - I'm from [Moscow, Russia](https://en.wikipedia.org/wiki/Moscow).
 - I'm a student of the [Department of Software Engineering](https://iu7.bmstu.ru/) at [BMSTU](https://bmstu.ru/).
 - In my free time, i play bass or piano.
 
-## My skills:
+### My skills:
 - Python
 - C
 - C++
