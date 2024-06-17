@@ -17,9 +17,9 @@
 - Overclocking
 - SCADA (Codesys, Modbus and etc)
 
-About my setup: **[click here](./my_setup.md)**
+About my setup: **[[click here]](./my_setup.md)**
 
-About my profile picture: **[click here](./about_profile_picture.md)**
+About my profile picture: **[[click here]](./about_profile_picture.md)**
 
 ## U can text me here:
 - [Vkontakte](https://vk.com/formak21)
