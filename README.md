@@ -11,6 +11,7 @@
 - Python
 - C
 - C++
+- Bash
 - GNU/Linux
 - Windows Administration
 - Network Administration
