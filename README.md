@@ -30,5 +30,5 @@ About my profile picture: **[[click here]](./about_profile_picture.md)**
 - [Vkontakte](https://vk.com/formak21)
 - **[Telegram](https://t.me/formak21)**  <- best option
 - [Discord](https://discordapp.com/users/458674488683528195)
-- [Steam]()
+- [Steam](https://steamcommunity.com/id/Form49d)
 - Mail: Form49.d@gmail.com

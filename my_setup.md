@@ -19,7 +19,7 @@
     3. MEMORY: **be quiet 140**
     4. BACK: **nzxt 120**
 - Case: **NZXT H510**
-- Main OS: **Windows 10 Enterprise LTSC IOT 2021**
+- Main OS: **[Windows 10 Enterprise LTSC IOT 2021](https://learn.microsoft.com/en-us/windows/whats-new/ltsc/whats-new-windows-10-2021)**
 - Testing and Overclocking OS: **Windows 10 Pro v20H2 (Tweaked *[ReviOS](https://www.revi.cc)*)**
 
 OC Setup:
@@ -51,7 +51,7 @@ OC Setup:
     2. FRONT(DOWN): **Fractal Design Aspect 12 RGB PWM**
     3. BACK: **Fractal Design Aspect 12 RGB PWM**
 - Case: **Fractal Design Pop Mini Air**
-- Main OS: **Windows 10 Enterprise LTSC IOT 2021**
+- Main OS: **[Windows 10 Enterprise LTSC IOT 2021](https://learn.microsoft.com/en-us/windows/whats-new/ltsc/whats-new-windows-10-2021)**
 
 ### Peripheria:
 - Mouse: **Logitech G502 Hero**
@@ -61,7 +61,7 @@ OC Setup:
 
 ## Main Laptop:
 - Model: **ASUS Vivobook Pro 14X OLED M7400QE-KM117**
-- Main OS: **Arch GNU/Linux**
+- Main OS: **[Arch GNU/Linux](https://archlinux.org/)**
 - Mouse: **Mad Catz R.A.T. 8+ ADV**
 
 **Fetch**:
