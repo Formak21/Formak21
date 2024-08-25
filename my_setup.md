@@ -43,7 +43,8 @@ OC Setup:
 - Motherboard: **Asus ROG STRIX Z490-I Gaming**
 - GPU: **Asus TUF RTX3060Ti O8G V2 Gaming LHR**
 - SSD's:
-    1. M2_1: **Samsung 970 Evo Plus 500Gb**
+    1. M2_1: **Samsung 970 Pro 1Tb**
+    2. M2_2: **Samsung 970 Evo Plus 500Gb**
 - CPU Cooler: **Noctua NH-U12S Redux**
 - PSU: **Super Flower LEADEX III SUPER BRONZE PRO 850W SF-850R14HE**
 - Fan's:
