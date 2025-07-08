@@ -4,7 +4,7 @@
 
 ### Some info about me:
 
-- I'm 20 y.o.
+- I'm 21 y.o.
 - I'm from [Moscow, Russia](https://en.wikipedia.org/wiki/Moscow).
 - I'm a student of the [Department of Software Engineering](https://iu7.bmstu.ru/) at [BMSTU](https://bmstu.ru/).
 - In my free time, i play bass or piano.
